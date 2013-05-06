@@ -1,0 +1,5 @@
+git init
+git add commands.txt
+git commit -m "first commit of this file"
+git remote add origin https://github.com/balincrook/raksa1.git
+git push -u origin master
